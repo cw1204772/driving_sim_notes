@@ -2,11 +2,16 @@
 
 ## Equipment
 
+- [PC / Monitor](/pc.md)
+- [Rig / Wheel / Bass Shaker](/rig_wheel.md)
+- Xbox Controller
+
 ## Simhub Setting
 
 Simbhub version: 9.8.2
 
 ### Effects profile
+- Select "Euro Truck Simulator 2" when creating profile
 - Set "impact" to 100% intensity to simulate crash
   - This seems to take the lateral g-force from the game. So both car crash and harsh stopping will trigger this effect.
 - Set "road rumble" & "road impact" to 70% to feel the bumps/feedback from the road
