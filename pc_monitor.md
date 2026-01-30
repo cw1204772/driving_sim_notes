@@ -1,4 +1,4 @@
-# PC / Monitoor Setup
+# PC / Monitor Setup
 
 ## PC
 
