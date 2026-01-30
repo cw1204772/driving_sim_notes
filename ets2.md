@@ -15,26 +15,25 @@
   - Use this instead of RPMs because it feels more natural (correlate to engine sound).
 - Set "gear shift" to 30% to mimic the gear shift.
 
-![](images\ets2-simhub-1.jpg)
+![](/images/ets2-simhub-1.jpg)
 
-![](images\ets2-simhub-impact-1.jpg)
+![](/images/ets2-simhub-impact-1.jpg)
 
-![](images\ets2-simhub-road-rumble-1.jpg)
-![](images\ets2-simhub-road-rumble-2.jpg)
+![](/images/ets2-simhub-road-rumble-1.jpg)
+![](/images/ets2-simhub-road-rumble-2.jpg)
 
-![](images\ets2-simhub-road-impact-1.jpg)
+![](/images/ets2-simhub-road-impact-1.jpg)
 
-![](images\ets2-simhub-road-vibration-1.jpg)
-![](images\ets2-simhub-road-vibration-2.jpg)
+![](/images/ets2-simhub-road-vibration-1.jpg)
+![](/images/ets2-simhub-road-vibration-2.jpg)
 
-![](images\ets2-simhub-engine-vibration-1.jpg)
+![](/images/ets2-simhub-engine-vibration-1.jpg)
 
-![](images\ets2-simhub-gear-shift-1.jpg)
-
+![](/images/ets2-simhub-gear-shift-1.jpg)
 ### Sound output
 
 - Use front/rear output.
 - All road effects enabled only on the "front" output. Except for impact, I enable on both front and rear for the "impact" feel.
 - All engine effects enabled only on the "rear" output
 
-![](images\ets2-simhub-sound-output-1.jpg)
+![](/images/ets2-simhub-sound-output-1.jpg)
