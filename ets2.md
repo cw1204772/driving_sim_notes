@@ -4,6 +4,8 @@
 
 ## Simhub Setting
 
+Simbhub version: 9.8.2
+
 ### Effects profile
 - Set "impact" to 100% intensity to simulate crash
   - This seems to take the lateral g-force from the game. So both car crash and harsh stopping will trigger this effect.
