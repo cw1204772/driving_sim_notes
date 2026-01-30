@@ -2,7 +2,7 @@
 
 ## Equipment
 
-- [PC / Monitor](/pc.md)
+- [PC / Monitor](/pc_monitor.md)
 - [Rig / Wheel / Bass Shaker](/rig_wheel.md)
 - Xbox Controller
 
